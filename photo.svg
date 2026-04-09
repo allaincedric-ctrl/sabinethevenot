@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Portrait silhouette">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="40" fill="#e0f2fe"/>
+  <circle cx="160" cy="112" r="72" fill="url(#grad)" opacity="0.75"/>
+  <path d="M100 230c12-36 34-56 60-56s48 20 60 56" fill="none" stroke="#2563eb" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="120" cy="104" r="10" fill="#fff"/>
+  <circle cx="200" cy="104" r="10" fill="#fff"/>
+  <path d="M120 136c10 16 40 16 50 0" stroke="#fff" stroke-width="10" stroke-linecap="round" fill="none"/>
+</svg>
